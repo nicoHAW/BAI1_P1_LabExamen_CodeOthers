@@ -1,0 +1,30 @@
+LabExam c15 s23s XI-B1-P1
+=========================
+Bemerkung:
+Diese Datei muss "HIER" liegen, sonst gibt es später bei dem Zusammenstellen der Lösungen Probleme!
+
+
+
+Mitteilungen von dem Prüfling an den Prüfer:
+--------------------------------------------
+
+Nachname: ...
+Vorname:  ...
+
+
+Erstens:
+...
+
+
+
+Zweitens:
+...
+
+
+
+Drittens:
+...
+
+
+
+...
